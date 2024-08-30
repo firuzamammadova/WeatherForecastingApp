@@ -17,16 +17,16 @@ dotnet watch run
 
 ## Default User
 There is default User Credentials and Data , If you want to use :
- Email : administrator@localhost
+Email : administrator@localhost
 Password: Administrator1!
 
 
 
 ## Features 
 
-Fetch Current Weather: The service fetches current weather data from the Visual Crossing Weather API.
-Request by City/Date: Clients can request weather data for a specific city and date.
-Extendable: The service is designed to be extendable, allowing for future enhancements and additional features.
+- **Fetch Current Weather**: The service fetches current weather data from the Visual Crossing Weather API.
+- **Request by City/Date**: Clients can request weather data for a specific city and date.
+- **Extendable**: The service is designed to be extendable, allowing for future enhancements and additional features.
 
 Navigate to https://localhost:5001. The application will automatically reload if you change any of the source files.
 
